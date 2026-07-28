@@ -31,7 +31,7 @@ Output goes to `dist/`.
 _Add screenshots here after running the app locally, e.g.:_
 
 ```md
-![Day 1 - User Registration Form](./screenshots/day1-registration-form.png)
+![Day 1 - User Registration Form](./screenshots/public/day1-registration-form.png)
 ```
 
 ---
